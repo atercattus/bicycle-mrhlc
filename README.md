@@ -1,2 +1,6 @@
 # bicycle-mrhlc
-My solution for mail.ru HighLoad Cup 2017
+Мое решение для [mail.ru'шного HighLoad Cup 2017](https://highloadcup.ru/round/1/)
+
+Версия "как есть", как была залита в последний раз.
+
+Комментариев не много, а некоторые еще могут быть и не актуальными, все как в жизни.
